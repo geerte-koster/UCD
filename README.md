@@ -1,6 +1,11 @@
-# USER-CENTERED DESIGN (UCD) 
-UCD OF A CURRICULUM MAPPING VISUALISATION TOOL & AN ONLINE MINI-GAME TO IMPROVE DATA LITERACY IN ADULTS
+# User-centered design (UCD)
+Repository containing code and files used in the UCD approach of two projects: the design of a web-based tool to visualise the curriculum mapping of the professional psychology program at the University of Bergen (Norway) & the design of an online mini-game as part of an Erasmus+ project to improve data literacy in adults.
 
+## Content
+1) [mini_game](mini_game)
+  <br/>Folder containing the data and scripts to analyse the evaluation results of the online-mini game.
+  1.1) [mini_game/evaluation_data](mini_game/evaluation_data)
 
+2) [visualisation_tool](visualisation_tool)
+<br/>Python file to reproduce all figures from study
 
-To create the figures and do the analyses as presented in this thesis, different datasets and python scripts are used. To create the figures in Figure 4 and Suppl. Figure 1, the curriculum maps of the 28 courses in the Professional Psychology program were used as input data (for an example see Figure 3). To create Figure 7 and 8, the evaluation scores of the 105 students and their categorised answers to the open questions are used. 
