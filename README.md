@@ -1,5 +1,7 @@
 # User-centered design (UCD)
 Repository containing code and files used in the UCD approach of two projects: the design of a web-based tool to visualise the curriculum mapping of the professional psychology program at the University of Bergen (Norway) & the design of an online mini-game as part of an Erasmus+ project to improve data literacy in adults.
+<br/>The current version of the visualisation tool can be found here: https://cm-project.slate.wiki/
+<br/>The current version of the online mini-game can be found here: https://view.genial.ly/62b46938aedf0c00196d556e/interactive-content-the-data-iceberg
 
 ## Content
 1) [mini_game](mini_game)
